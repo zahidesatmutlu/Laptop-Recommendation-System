@@ -2,6 +2,9 @@
 
 A simple Laptop Recommendation System built using Prolog, designed to help users select the best laptop based on their preferences.
 
+
+![image](https://github.com/user-attachments/assets/94b5a20d-a858-4f0c-8f9d-60944a31df0d)
+
 ## Overview
 
 This project is a knowledge-based system that recommends laptops according to user preferences such as budget, brand, performance, and purpose. By answering a set of questions, the system will return the most suitable laptop option.
